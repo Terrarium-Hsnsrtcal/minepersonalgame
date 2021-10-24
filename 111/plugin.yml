@@ -1,7 +1,0 @@
-name: Game_HaS
-version: 1.0
-main: game.main.Main
-author: Hsnsrtcal
-commands:
- tgame:
-depend: [ProtocolLib, Netherboard] 
